@@ -1,5 +1,5 @@
 # CCOM-4302-Projecto 1
-Kevin Tosado and Jeremy Quintana
+Kevin Tosado and Jeremy Quintana /n
 For this Project we had to create a marble race with obstacles and an arc at the end to signify that its over.
 
 <img width="734" height="381" alt="Screenshot 2026-09-08 195814" src="https://github.com/user-attachments/assets/9bcf6deb-37c8-40ec-932d-3fece1e5e5e5" />
