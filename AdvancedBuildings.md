@@ -65,10 +65,9 @@ Final scene assembly of El Caracol, integrating all modular components, includin
 <img width="725" height="407" alt="image" src="https://github.com/user-attachments/assets/fd15da2e-5fe4-46b7-b8a5-7b6f30b19775" />
 
 
-<img width="730" height="395" alt="image" src="https://github.com/user-attachments/assets/9273f348-b153-4151-8a4c-daa0a1df3e6c" />
+<img width="728" height="402" alt="image" src="https://github.com/user-attachments/assets/5a108c47-d03a-41c4-a255-793d4588f583" />
 
-
-Complete scene assembly showing the full architectural layout—featuring the central Temple of the Foliated Cross, surrounding civilian housing, and adjacent complex grounds set within the terrain enclosure.
+Complete scene assembly showing the full architectural layout—featuring the central Temple of the Foliated Cross, surrounding civilian housing, animals and adjacent complex grounds set within the terrain enclosure.
 
 
 Story:
