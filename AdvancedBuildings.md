@@ -1,18 +1,18 @@
 Jeremy Quintana And Kevin Tosado
 
-For this project, a terrain was created. Mountains were created and the terrain was painted.
+Firstly we generated the environment base using Unity's Terrain system. Sculpted surrounding mountain ranges and then applied height-based terrain textures to define the central valley area.
 
 <img width="704" height="368" alt="image" src="https://github.com/user-attachments/assets/c8e4c0cc-e847-462d-b786-8b6bf5f7ae46" />
 
 <img width="715" height="369" alt="image" src="https://github.com/user-attachments/assets/1bd6364d-49eb-4bf1-a4c0-d83c9ad38525" />
 
-After creating the terrain, we started building the Temple of the Foliated Cross.
+We constructed the multi-tiered foundation of the Temple of the Foliated Cross using different unity shapes. Sequentially stacked and aligned platform layers to form the pyramid architecture.
 
 <img width="745" height="376" alt="image" src="https://github.com/user-attachments/assets/3a6ed2cf-34fe-483e-9acd-82e8382049d0" />
 
 <img width="764" height="399" alt="image" src="https://github.com/user-attachments/assets/e9dd8618-f597-4d3d-ba00-a85f6d464603" />
 
-After that, a house was created to be placed on top of the temple, and a statue of the god Shin was created, and the temple was painted.
+After that, we added the upper sanctuary building atop the pyramid tier and placed the statue of the deity Shin inside the central shrine.We also applied custom materials and color maps across the temple structure.
 
 <img width="689" height="353" alt="image" src="https://github.com/user-attachments/assets/23c10055-a96b-43fd-85e7-17f7cacf25c8" />
 
@@ -20,7 +20,7 @@ After that, a house was created to be placed on top of the temple, and a statue 
 
 <img width="756" height="375" alt="image" src="https://github.com/user-attachments/assets/683eaf01-f504-4b2a-bad5-ad42e5a6e311" />
 
-Stairs were created, as well as the houses where the city's inhabitants live.
+Then we integrated a central staircase for the main temple access and laid out surrounding residential structures. Positioned decorative flowers and props along the pathways to build out the city layout.
 
 <img width="779" height="394" alt="image" src="https://github.com/user-attachments/assets/bf002dc5-c4b8-4a49-ad46-e3112096eadc" />
 
