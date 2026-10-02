@@ -27,7 +27,8 @@ After that, we added the upper sanctuary building atop the pyramid tier and plac
 
 Then we integrated a central staircase for the main temple access and laid out surrounding residential structures. Positioned decorative flowers and props along the pathways to build out the city layout.
 
-<img width="779" height="394" alt="image" src="https://github.com/user-attachments/assets/bf002dc5-c4b8-4a49-ad46-e3112096eadc" />
+<img width="681" height="400" alt="image" src="https://github.com/user-attachments/assets/b0c66c1c-39b7-4f7a-a144-317543fcb5b0" />
+
 
 <img width="669" height="330" alt="image" src="https://github.com/user-attachments/assets/837ca705-b192-4f97-af25-5cf82bd33ded" />
 
