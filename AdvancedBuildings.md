@@ -1,10 +1,8 @@
 Jeremy Quintana And Kevin Tosado
 
-Firstly we generated the environment base using Unity's Terrain system. Sculpted surrounding mountain ranges and then applied height-based terrain textures to define the central valley area.
-
 <img width="256" height="256" alt="TerrainProyect" src="https://github.com/user-attachments/assets/5e30ecca-2d71-45ad-9214-4614180682f5" />
 
-
+Firstly we generated the environment base using Unity's Terrain system. Sculpted surrounding mountain ranges and then applied height-based terrain textures to define the central valley area.
 
 <img width="704" height="368" alt="image" src="https://github.com/user-attachments/assets/c8e4c0cc-e847-462d-b786-8b6bf5f7ae46" />
 
