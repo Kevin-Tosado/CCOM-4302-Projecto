@@ -53,6 +53,19 @@ Built the secondary raised terrace atop the main platform, complete with split a
 
 <img width="1024" height="584" alt="image" src="https://github.com/user-attachments/assets/3c84cabe-494a-4ac8-b536-4d8d31ca2732" />
 
+<img width="689" height="400" alt="image" src="https://github.com/user-attachments/assets/64689a8c-7001-4112-88de-20df0468ee5f" />
+
+For the top, we modeled and assembled the central cylindrical observatory tower, featuring layered colored tiers (green, terracotta, and yellow), small observation doorways, and spiked triangles detailing around the top crest.
+
+<img width="1024" height="602" alt="image" src="https://github.com/user-attachments/assets/da85c41e-51ba-4a88-952f-8e195851401f" />
+
+Final scene assembly of El Caracol, integrating all modular components, including the base platforms, pillared outbuildings, stepped terraces, and central observation tower that is fully textured and aligned within the environment.
+
+<img width="694" height="394" alt="image" src="https://github.com/user-attachments/assets/cc4be232-00ab-4b15-b5fb-656a7b722fb1" />
+
+<img width="695" height="389" alt="image" src="https://github.com/user-attachments/assets/bb01334f-e59b-4442-b722-9202b774e3de" />
+
+
 Complete scene assembly showing the full architectural layout—featuring the central Temple of the Foliated Cross, surrounding civilian housing, and adjacent complex grounds set within the terrain enclosure.
 
 
