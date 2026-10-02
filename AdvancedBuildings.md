@@ -4,6 +4,8 @@ Firstly we generated the environment base using Unity's Terrain system. Sculpted
 
 <img width="256" height="256" alt="TerrainProyect" src="https://github.com/user-attachments/assets/5e30ecca-2d71-45ad-9214-4614180682f5" />
 
+
+
 <img width="704" height="368" alt="image" src="https://github.com/user-attachments/assets/c8e4c0cc-e847-462d-b786-8b6bf5f7ae46" />
 
 <img width="715" height="369" alt="image" src="https://github.com/user-attachments/assets/1bd6364d-49eb-4bf1-a4c0-d83c9ad38525" />
