@@ -62,9 +62,10 @@ For the top, we modeled and assembled the central cylindrical observatory tower,
 
 Final scene assembly of El Caracol, integrating all modular components, including the base platforms, pillared outbuildings, stepped terraces, and central observation tower that is fully textured and aligned within the environment.
 
-<img width="694" height="394" alt="image" src="https://github.com/user-attachments/assets/cc4be232-00ab-4b15-b5fb-656a7b722fb1" />
+<img width="725" height="407" alt="image" src="https://github.com/user-attachments/assets/fd15da2e-5fe4-46b7-b8a5-7b6f30b19775" />
 
-<img width="695" height="389" alt="image" src="https://github.com/user-attachments/assets/bb01334f-e59b-4442-b722-9202b774e3de" />
+
+<img width="730" height="395" alt="image" src="https://github.com/user-attachments/assets/9273f348-b153-4151-8a4c-daa0a1df3e6c" />
 
 
 Complete scene assembly showing the full architectural layout—featuring the central Temple of the Foliated Cross, surrounding civilian housing, and adjacent complex grounds set within the terrain enclosure.
