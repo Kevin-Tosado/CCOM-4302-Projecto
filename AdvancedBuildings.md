@@ -39,7 +39,7 @@ We constructed the primary foundation platform using ProBuilder, defining the ma
 
 <img width="1024" height="544" alt="image" src="https://github.com/user-attachments/assets/d79fa292-63f0-4629-a4c7-c16b91a80326" />
 
-Added the wide central access staircase and sloped side balustrades, connecting the lower terrain level to the primary upper courtyard platform.
+Added the wide central staircase and sloped side bars, connecting the lower terrain level to the primary upper courtyard platform.
 
 <img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/75e31646-bc93-4c15-abad-5bfe130eac92" />
 
@@ -47,12 +47,11 @@ We then integrated the front right lower platform annex and top left architectur
 
 <img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/f0f2577a-a502-4f20-a52f-abfe0aba019b" />
 
-Built the secondary raised terrace atop the main platform, complete with split access stairs, a central stone altar feature, and decorative parapet block detailing along the wall rims.
-
 <img width="1023" height="532" alt="image" src="https://github.com/user-attachments/assets/65d0c6f4-4814-43e0-a0b2-7b12ee248c0b" />
 
-<img width="1024" height="584" alt="image" src="https://github.com/user-attachments/assets/3c84cabe-494a-4ac8-b536-4d8d31ca2732" />
+Built the secondary raised terrace atop the main platform, complete with split access stairs, a central stone altar feature, and decorative parapet block detailing along the wall rims.
 
+<img width="1024" height="584" alt="image" src="https://github.com/user-attachments/assets/3c84cabe-494a-4ac8-b536-4d8d31ca2732" />
 
 Complete scene assembly showing the full architectural layout—featuring the central Temple of the Foliated Cross, surrounding civilian housing, and adjacent complex grounds set within the terrain enclosure.
 
