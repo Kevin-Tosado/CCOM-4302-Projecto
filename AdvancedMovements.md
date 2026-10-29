@@ -17,5 +17,7 @@ At first we tried doing it with a simple code but the character would straight u
 
 Next we have to make it so the character can sprint by pressing shift.
 For sprinting I added it to the PlayerMovement Script we made in class and put in a part for OnSprint that makes the player move twice as fast 
-<img width="577" height="689" alt="image" src="https://github.com/user-attachments/assets/72e855b8-7d62-4221-b339-a75e418b4285" />
+<img width="730" height="679" alt="image" src="https://github.com/user-attachments/assets/3fe53158-1744-41e7-a754-0316915694f3" />
 Only problem with this new part of the script was that when we hit the shift key to sprint, the character would stay sprinting and not stop. So we had to solve that.
+We switched the public void for OnSprint to take an InputAction Callback To toggle and go between true and false when the button is pressed.
+<img width="352" height="146" alt="image" src="https://github.com/user-attachments/assets/1125c64a-99c5-4e88-bac4-4864ce70d731" />
