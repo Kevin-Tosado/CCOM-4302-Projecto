@@ -12,7 +12,7 @@ We utilize the property known as PlayerInput or InputSystem to do all of this .
 
 Now we need to add the Jump mechanic.
 At first we tried doing it with a simple code but the character would straight up just fall through the floor. So then we added the same Rigidbody rb mechanic we've used previously to the code that that made it work. We gave the player character 5 jump height and made it be able to double jump.
-<img width="683" height="651" alt="image" src="https://github.com/user-attachments/assets/09da425c-7796-470f-b80c-628c8816e0fd" />
+<img width="599" height="565" alt="image" src="https://github.com/user-attachments/assets/04f00007-196b-4209-9e10-7fc4bf584a44" />
 <img width="400" height="225" alt="2026-10-28 23-49-52" src="https://github.com/user-attachments/assets/395c197a-3bb7-4bc6-a67e-0463cc6a8964" />
 
 Next we have to make it so the character can sprint by pressing shift.
@@ -25,5 +25,15 @@ This also didn't work. So as a last case we decided to just add the old part bac
 <img width="250" height="380" alt="image" src="https://github.com/user-attachments/assets/a0d99595-a99b-4155-854a-ec4b0ee270a8" />
 This actually worked, as demonstrated here, where it moves faster.
 <img width="400" height="225" alt="2026-10-29 00-30-24" src="https://github.com/user-attachments/assets/dbe7654b-251d-4e7b-8567-16d05524a2f2" />
+
+Lastly we need to add the dodge. We made a new Script called PlayerDodge to do so, here's the code
+<img width="544" height="635" alt="image" src="https://github.com/user-attachments/assets/a8478c89-1f01-4a6d-b3cf-c6d036881ec4" />
+When we made it, it was only dodging in the direction it was facing as commented. To fix that we added this
+<img width="562" height="87" alt="image" src="https://github.com/user-attachments/assets/c501a8b0-a4ec-49fa-8590-b19d910db7ff" />
+Now it will dodge left or right based on the last direction pressed. And now heres the full code with the video Demonstration
+<img width="4480" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d0c5ce3-d156-4f87-b14f-fb7b71921c76" />
+<img width="400" height="225" alt="2026-10-29 01-05-21" src="https://github.com/user-attachments/assets/97dfd375-7a03-4b9a-8448-f550a808d731" />
+
+Now that we made our character Move, Shoot, Jump, Double Jump Sprint and Dodge. We are Done!!!!
 
 
