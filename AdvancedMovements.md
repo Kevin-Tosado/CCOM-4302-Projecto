@@ -46,7 +46,7 @@ When we made it, it was only dodging in the direction it was facing as commented
 
 Now it will dodge left or right based on the last direction pressed. And now heres the full code with the video Demonstration
 
-<img width="4480" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d0c5ce3-d156-4f87-b14f-fb7b71921c76" />
+<img width="554" height="640" alt="image" src="https://github.com/user-attachments/assets/49d32ef8-638a-4bf5-9ccc-9ee7b0c771e0" />
 
 <img width="400" height="225" alt="2026-10-29 01-05-21" src="https://github.com/user-attachments/assets/97dfd375-7a03-4b9a-8448-f550a808d731" />
 
