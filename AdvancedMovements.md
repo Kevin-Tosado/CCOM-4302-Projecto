@@ -21,3 +21,9 @@ For sprinting I added it to the PlayerMovement Script we made in class and put i
 Only problem with this new part of the script was that when we hit the shift key to sprint, the character would stay sprinting and not stop. So we had to solve that.
 We switched the public void for OnSprint to take an InputAction Callback To toggle and go between true and false when the button is pressed.
 <img width="352" height="146" alt="image" src="https://github.com/user-attachments/assets/1125c64a-99c5-4e88-bac4-4864ce70d731" />
+This also didn't work. So as a last case we decided to just add the old part back and change it direcctly in the InputSystem to add an interaction, it now checks if the shift key was pressed or not and changed the speed depending on if its toggled or not.
+<img width="250" height="380" alt="image" src="https://github.com/user-attachments/assets/a0d99595-a99b-4155-854a-ec4b0ee270a8" />
+This actually worked, as demonstrated here, where it moves faster.
+<img width="400" height="225" alt="2026-10-29 00-30-24" src="https://github.com/user-attachments/assets/dbe7654b-251d-4e7b-8567-16d05524a2f2" />
+
+
