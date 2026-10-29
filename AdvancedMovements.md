@@ -3,6 +3,7 @@ Jeremy Quintana And Kevin Tosado
 
 For this project we need to give our already created characters, actions.
 During class, we already gave it Horizontal movement, Vertical movement and Shoot, as seen in the images. 
+
 <img width="674" height="628" alt="image" src="https://github.com/user-attachments/assets/cb4acddf-3c7e-40d8-bfa7-54986c899e2e" />
 
 and heres the one for shooting 
