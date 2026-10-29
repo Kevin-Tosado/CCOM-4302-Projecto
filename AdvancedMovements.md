@@ -7,6 +7,7 @@ During class, we already gave it Horizontal movement, Vertical movement and Shoo
 <img width="674" height="628" alt="image" src="https://github.com/user-attachments/assets/cb4acddf-3c7e-40d8-bfa7-54986c899e2e" />
 
 and heres the one for shooting 
+
 <img width="606" height="333" alt="image" src="https://github.com/user-attachments/assets/c8d1087c-3a8e-42ed-aa06-e92ef026af95" />
 
 We utilize the property known as PlayerInput or InputSystem to do all of this .
