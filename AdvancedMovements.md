@@ -48,6 +48,7 @@ Now it will dodge left or right based on the last direction pressed. And now her
 
 <img width="554" height="640" alt="image" src="https://github.com/user-attachments/assets/49d32ef8-638a-4bf5-9ccc-9ee7b0c771e0" />
 
+
 <img width="400" height="225" alt="2026-10-29 01-05-21" src="https://github.com/user-attachments/assets/97dfd375-7a03-4b9a-8448-f550a808d731" />
 
 Now that we made our character Move, Shoot, Jump, Double Jump Sprint and Dodge. We are Done!!!!
